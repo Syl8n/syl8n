@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Syl8n&fontAlign=70&fontAlignY=40&animation=twinkling)
 
-<div align="end">
-  <a href="https://velog.io/@yaaloo" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a href="mailto:magi8520@gmail.com" target="_blank"><img src="https://img.shields.io/badge/magi8520@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</div>
+
+ <a href="https://velog.io/@yaaloo" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+ <a href="mailto:magi8520@gmail.com" target="_blank"><img src="https://img.shields.io/badge/magi8520@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 
 🖐️ Hi, there! I'm a software engineer especially interested in backend service 🚀<br>
 Also have been quite into frontend skills such as React and Next.js recently 📍
