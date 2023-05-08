@@ -40,4 +40,4 @@ I love to have pizza🍕 & coca-cola🥤(not pepsi, it's non-negotible😋) whil
 <img src="https://img.shields.io/badge/Intellij_Idea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
-[![Syl8n's GitHub stats](https://github-readme-stats.vercel.app/api?username=syl8n&show_icons=true&theme=tokyonight)](https://github.com/syl8n/github-readme-stats)
+[![Syl8n's GitHub stats](https://github-readme-stats.vercel.app/api?username=syl8n&show_icons=true&theme=radical)](https://github.com/syl8n/github-readme-stats)
