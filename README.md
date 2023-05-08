@@ -42,4 +42,4 @@ I love to have pizza🍕 & coca-cola🥤(not pepsi, it's non-negotible😋) whil
 
 [![Syl8n's GitHub stats](https://github-readme-stats.vercel.app/api?username=syl8n&show_icons=true&theme=radical)](https://github.com/syl8n/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syl8n&hide=html)](https://github.com/syl8n/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syl8n&hide=html&langs_count=4)](https://github.com/syl8n/github-readme-stats)
