@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Syl8n&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 <div align="end">
@@ -56,4 +55,3 @@ I love to have pizza🍕 & coca-cola🥤(not pepsi, it's non-negotible😋) whil
 <a href="https://github.com/syl8n/group4comp308-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syl8n&repo=group4comp308-backend" />
 </a>
-</div>
