@@ -43,3 +43,11 @@ I love to have pizza🍕 & coca-cola🥤(not pepsi, it's non-negotible😋) whil
 [![Syl8n's GitHub stats](https://github-readme-stats.vercel.app/api?username=syl8n&show_icons=true&theme=radical)](https://github.com/syl8n/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syl8n&layout=compact)](https://github.com/syl8n/github-readme-stats)
+
+**Pinned Repo**
+<a href="https://github.com/syl8n/everycamping-backend-personal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syl8n&repo=everycamping-backend-personal" />
+</a>
+<a href="https://github.com/syl8n/group4comp308-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syl8n&repo=group4comp308-backend" />
+</a>
