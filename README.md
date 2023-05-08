@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://velog.io/@yaaloo" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=velog&logoColor=#FFFFFF"/></a> <a href="mailto:magi8520@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=gmail&logoColor=#FFFFFF"/></a>
+<a href="https://velog.io/@yaaloo" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=#FFFFFF"/></a> <a href="mailto:magi8520@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=#FFFFFF"/></a>
 
 🖐️ Hi, there! I'm a software engineer especially interested in backend service 🚀
 Also have been quite into frontend skills such as React and Next.js recently 📍
