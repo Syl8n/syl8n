@@ -36,6 +36,6 @@ I love to have pizza🍕 & coca-cola🥤(not pepsi, it's non-negotible😋) whil
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
-**Additional Skills**
+**Tools**<br>
 <img src="https://img.shields.io/badge/Intellij_Idea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
