@@ -46,7 +46,7 @@ I love to have pizza🍕 & coca-cola🥤(not pepsi, it's non-negotible😋) whil
 
 [![Syl8n's GitHub stats](https://github-readme-stats.vercel.app/api?username=syl8n&show_icons=true&theme=radical)](https://github.com/syl8n/github-readme-stats)
 
-**I mostly use HTML...wait, what??😮 I'm Java and Javascript main!**<br>
+**I mostly use HTML...wait, what??😮 I'm Java main!**<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syl8n&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/syl8n/github-readme-stats)
 
 **Pinned Repo**<br>
