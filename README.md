@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 **Frameworks & Languages**<br>
 <img src="https://img.shields.io/badge/Java-FF6600?style=flat-square&logo=coffeescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> -->
 
 
 **Database**<br>
