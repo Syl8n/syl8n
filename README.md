@@ -20,10 +20,13 @@ Here are some ideas to get you started:
  <a href="mailto:magi8520@gmail.com" target="_blank"><img src="https://img.shields.io/badge/magi8520@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
-🖐️ Hi, there! I'm a software engineer especially interested in backend service 🚀<br>
-Also have been quite into frontend skills such as React and Next.js recently 📍
-
-I love to have pizza🍕 & coca-cola🥤(not pepsi, it's non-negotible😋) while coding
+**Pinned Repo**<br>
+<a href="https://github.com/syl8n/everycamping-back-end-personal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syl8n&repo=everycamping-back-end-personal" />
+</a>
+<a href="https://github.com/syl8n/group4comp308-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syl8n&repo=group4comp308-backend" />
+</a>
 
 ### 💪Skills
 
@@ -48,11 +51,3 @@ I love to have pizza🍕 & coca-cola🥤(not pepsi, it's non-negotible😋) whil
 
 **I mostly use HTML...wait, what??😮 I'm Java main!**<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syl8n&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/syl8n/github-readme-stats)
-
-**Pinned Repo**<br>
-<a href="https://github.com/syl8n/everycamping-back-end-personal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syl8n&repo=everycamping-back-end-personal" />
-</a>
-<a href="https://github.com/syl8n/group4comp308-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syl8n&repo=group4comp308-backend" />
-</a>
